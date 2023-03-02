@@ -20,5 +20,5 @@ fn main(){
         sleep(Duration::from_millis(500));
     });
 
-    println!("Теперь ви дединсайдик");
+    println!("Тепер ти мертвий всередині.");
 }
